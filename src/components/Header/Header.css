@@ -1,0 +1,16 @@
+#header {
+ text-align: center;
+ background: rgb(67, 115, 173);
+ padding: 1rem
+}
+
+#header h1 {
+ color: rgb(33, 85, 33);
+ margin-top: -.07rem;
+ margin-bottom: -.2rem;
+ font-size: 3rem
+}
+
+
+
+
