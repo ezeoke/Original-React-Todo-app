@@ -10,7 +10,6 @@ class Task extends React.Component {
 
 handleChange = (e) => {
   this.setState({ newTodo: e.target.value })
-  console.log(e.target.value);
 }
 
 handleSubmit = (e) => {
